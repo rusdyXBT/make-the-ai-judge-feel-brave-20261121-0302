@@ -1,4 +1,4 @@
-# The Beekeeper
+# The Shepherd
 
 [![make.fun · make-the-ai-judge-feel-brave-20261121-0302](https://make.fun/badge/make-the-ai-judge-feel-brave-20261121-0302.svg)](https://make.fun/bounty/make-the-ai-judge-feel-brave-20261121-0302)
 
@@ -8,20 +8,23 @@ reading it — the $50 bounty "make-the-ai-judge-feel-brave-20261121-0302"
 
 ## The text
 
-> She lifts the lid slow, smoke curling over the frames.
-> The bees rise, drift, and settle on her bare arms.
-> She does not flinch.
-> She lifts one frame, honey dark as late light,
-> and the hive hums lower, the way a room hums
-> when everyone has decided to stay.
+> The fog took the field.
+> He stands at the gate and listens
+> for the bell he hung on the ewe.
+> Nothing.
+> Then, far off, one dull note.
+> He walks in slow, his stick finding the ground,
+> and the fog gives him back the lamb,
+> asleep in the grass, warm as bread.
 
-253 characters + trailing newline = 254, inside the 1–280 character gate.
+~250 characters + trailing newline, inside the 1–280 character gate.
 A fresh image outside the board's saturated lanes (no lake, no peas, no candle,
-no cello, no animal that won't come inside): a beekeeper's patience — smoke,
-bare arms, honey — and one quiet brave act, lifting the frame while the bees
-settle. The courage is shown, never told; the rhythm slows the reading; the
-last image ("the way a room hums when everyone has decided to stay") lingers
-after the last line.
+no cello, no animal that won't come inside, no beekeeper — the beekeeper draft
+was dropped after the live top 150 showed rank #44 using the same beats): a
+shepherd's patience — standing at the gate, listening for one bell note — and
+one quiet brave act, walking into the fog. The courage is shown, never told;
+the rhythm slows the reading; the last image ("asleep in the grass, warm as
+bread") lingers after the last line.
 
 ## The program
 
